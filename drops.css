@@ -1,0 +1,103 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+div.card-1{
+	width: 40px;
+	height: 40px;
+	background-color: #B5ED38;
+}
+
+
+.card-1 img{
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+
+.underline{
+	color: dimgray;
+	text-decoration:line-through;
+}
+
+
+.related{
+	text-decoration: underline;
+}
+
+
+.box{
+	width: 140px;
+	height: 40px;
+	background-color: #B5ED38;
+}
+
+
+.box-2{
+	width: 200px;
+	height: 50px;
+	background-color: #B5ED38;
+}
+
+
+
+
+.box-3{
+	width: 100px;
+	height: 40px;
+	background-color: #000000;
+}
+
+
+.box-3 img{
+	filter: invert(93%) sepia(93%) saturate(108%) hue-rotate(153deg) brightness(105%) contrast(103%);
+}
+
+
+
+.box-4{
+	width: 120px;
+	height: 40px;
+	background-color: #B5ED38;
+}
+
+
+.related{
+	margin-left: 380px;
+}
+
+
+.box-5{
+	width: 280px;
+	height: 40px;
+	background-color: #B5ED38;
+}
+
+.card-deck img{
+	margin-top: 10px;
+	
+}
+	
+
+
+.box-6{
+	width: 180px;
+	height: 40px;
+	background-color: #B5ED38;
+}
+
+
+
+.box-6 h6{
+	margin-left: 20px;
+
+
+}
+
+
+
+
+
+
